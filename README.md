@@ -94,5 +94,9 @@ Specific Markers:
 ![Screenshot (63)](https://user-images.githubusercontent.com/75902849/107061694-79c33380-67a6-11eb-8801-693831345502.png)
 
 
+2. IBAction: it is used for making specific actions.
+
+![Screenshot (65)](https://user-images.githubusercontent.com/75902849/107063413-5c8f6480-67a8-11eb-9a29-8a5ef66051b2.png)
+
 
 
