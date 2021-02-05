@@ -78,6 +78,9 @@ Launchscreen.stroyboard:
 view-controller.swift:A view controller manages a single root view, which may itself contain any number of subviews. User interactions with that view hierarchy are handled by your view controller, which coordinates with other objects of your app as needed. Every app has at least one view controller whose content fills the main window.
 
 
+![10](https://user-images.githubusercontent.com/74370444/107006757-a0d63100-67b7-11eb-9ed0-48dcecd77894.PNG)
+
+
 
 
 
