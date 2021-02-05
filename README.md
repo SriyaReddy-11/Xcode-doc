@@ -100,3 +100,8 @@ Specific Markers:
 
 
 
+A label and a button with text is inserted in splash screen. The is connected with the view controller so that the text changes when the button is pressed.
+
+![Screenshot (67)](https://user-images.githubusercontent.com/75902849/107064628-bc3a3f80-67a9-11eb-993e-1e5a7667f7f2.png)
+
+
