@@ -46,13 +46,22 @@ Creating a newproject:
 1.navigator
 The Project Navigator is where you’ll see all the files associated with your project. This is the default tab you’ll see when you create a brand new Xcode project.
 2.Creating and adding new files
+
 You can also right click on the Project Navigator and create new files or add existing files to your project. Or you can drag folders or files from your computer directly onto the Project Navigator and will popup a dialog asking how you want to add the files.
 3.The Xcode Search Navigator
 With the search navigator tab, you can easily look for pieces of text in your project.
+
 4.Writing Code
 The editor area is the place where we’ll probably be spending most of our time! This is where all the coding, configuration and user interface building happens.
+
 Let’s go through the Editor Area in the context of editing code files first.
 ![4](https://user-images.githubusercontent.com/74370444/106997670-4b932300-67a9-11eb-8c03-8a967e6312f3.PNG)
+
+Launchscreen.stroyboard:
+1.This is first screen we see when we open an application,also called as the splsh screen.when application is loading it shows this screen called as launchscreen.storyboard.this file is automatically created.Here we can add lable,image and manymore.
+
+2.main.storyboard:
+
 
 
 
