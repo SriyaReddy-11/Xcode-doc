@@ -109,3 +109,8 @@ A label and a button with text is inserted in splash screen. The is connected wi
 OUTPUT: STEP1.The program has Build successfully and  displayed in emulator
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/75902849/107065218-821d6d80-67aa-11eb-809f-082ff28ecb67.png)
+
+
+STEP2: The page is opened with a text and button
+
+![Screenshot (72)](https://user-images.githubusercontent.com/75902849/107065722-18ea2a00-67ab-11eb-9edb-d8f42064ec26.png)
