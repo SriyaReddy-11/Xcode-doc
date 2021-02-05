@@ -84,6 +84,11 @@ view-controller.swift:A view controller manages a single root view, which may it
 
 
 
+Adding a component to the splashscreen. you can see the icons at right side which consists of many components like lables, controllers,text,view, sliders etc.. a label is choosen and the properties (font, style, size, color) are changed.
+
+
+
+
 
 
 
