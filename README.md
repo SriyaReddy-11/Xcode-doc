@@ -41,6 +41,8 @@ Creating a newproject:
 2.in the welcome window,click create a new Xcode project.Xcode opens a new window and displays a dialog in which you chosse a template.
 3.select ios at the top of the dialog.
 4.in the application selection,select Single View Application and then click Next.
+
+
 ![3](https://user-images.githubusercontent.com/74370444/106995587-3a481780-67a5-11eb-9a2e-0c4aec9729d8.PNG)
 
 1.navigator
