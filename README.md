@@ -47,6 +47,7 @@ With the search navigator tab, you can easily look for pieces of text in your pr
 4.Writing Code
 The editor area is the place where we’ll probably be spending most of our time! This is where all the coding, configuration and user interface building happens.
 Let’s go through the Editor Area in the context of editing code files first.
+![4](https://user-images.githubusercontent.com/74370444/106997670-4b932300-67a9-11eb-8c03-8a967e6312f3.PNG)
 
 
 
