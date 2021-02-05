@@ -1,5 +1,6 @@
 # 
 Xcode:Xcode is an application that developers use to build apps for various Apple's different platforms such as ihone,ipad,Macs,Apple Watch and Apple Tv.
+Xcode is an IDE, an Integrated Development Environment, which essentially means that Xcode includes many additional tools for development. A few examples are: a debugger, source control, device management, iPhone Simulator, profiling tools, Interface Builder, documentation, and much more.
 
 Xcode requirments:
 
@@ -24,15 +25,28 @@ there are mainly 5 major areasin the interface.
 5.Debug Area.
 ![ios](https://user-images.githubusercontent.com/74370444/106992896-82643b80-679f-11eb-9f1e-31a5883b9027.PNG).
 
+Next, when we open an iOS app project in Xcode, you see like this:
+
 Creating a newproject:
 
 1.open Xcode from the applications directory.
 ![2](https://user-images.githubusercontent.com/74370444/106995483-04a32e80-67a5-11eb-8107-dadc55d84325.PNG)
 
+
 2.in the welcome window,click create a new Xcode project.Xcode opens a new window and displays a dialog in which you chosse a template.
 3.select ios at the top of the dialog.
 4.in the application selection,select Single View Application and then click Next.
-![2](https://user-images.githubusercontent.com/74370444/106995483-04a32e80-67a5-11eb-8107-dadc55d84325.PNG)
 ![3](https://user-images.githubusercontent.com/74370444/106995587-3a481780-67a5-11eb-9a2e-0c4aec9729d8.PNG)
+
+1.navigator
+The Project Navigator is where you’ll see all the files associated with your project. This is the default tab you’ll see when you create a brand new Xcode project.
+2.Creating and adding new files
+You can also right click on the Project Navigator and create new files or add existing files to your project. Or you can drag folders or files from your computer directly onto the Project Navigator and will popup a dialog asking how you want to add the files.
+3.The Xcode Search Navigator
+With the search navigator tab, you can easily look for pieces of text in your project.
+4.Writing Code
+The editor area is the place where we’ll probably be spending most of our time! This is where all the coding, configuration and user interface building happens.
+Let’s go through the Editor Area in the context of editing code files first.
+
 
 
