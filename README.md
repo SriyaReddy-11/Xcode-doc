@@ -26,6 +26,9 @@ there are mainly 5 major areasin the interface.
 ![ios](https://user-images.githubusercontent.com/74370444/106992896-82643b80-679f-11eb-9f1e-31a5883b9027.PNG).
 
 Next, when we open an iOS app project in Xcode, you see like this:
+![5](https://user-images.githubusercontent.com/74370444/106997458-ef300380-67a8-11eb-9526-f459a3344010.PNG)
+
+
 
 Creating a newproject:
 
