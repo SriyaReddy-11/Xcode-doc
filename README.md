@@ -33,6 +33,8 @@ Next, when we open an iOS app project in Xcode, you see like this:
 Creating a newproject:
 
 1.open Xcode from the applications directory.
+
+
 ![2](https://user-images.githubusercontent.com/74370444/106995483-04a32e80-67a5-11eb-8107-dadc55d84325.PNG)
 
 
