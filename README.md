@@ -17,9 +17,19 @@ Interface:
 
 there are mainly 5 major areasin the interface.
 
-1.Nvigator.
+1.Navigator.
 2.Editor.
 3.UTILITY Area.
 4.Toolbar.
 5.Debug Area.
-![ios](https://user-images.githubusercontent.com/74370444/106992896-82643b80-679f-11eb-9f1e-31a5883b9027.PNG)
+![ios](https://user-images.githubusercontent.com/74370444/106992896-82643b80-679f-11eb-9f1e-31a5883b9027.PNG).
+
+Creating a newproject:
+
+1.open Xcode from the applications directory.
+
+2.in the welcome window,click create a new Xcode project.Xcode opens a new window and displays a dialog in which you chosse a template.
+3.select ios at the top of the dialog.
+4.in the application selection,select Single View Application and then click Next.
+
+
