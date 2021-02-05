@@ -89,6 +89,9 @@ Adding a component to the splashscreen. you can see the icons at right side whic
 ![Screenshot (61)](https://user-images.githubusercontent.com/75902849/107059321-aa559e00-67a3-11eb-9c4d-309dd2f5727c.png)
 
 
+Specific Markers: 
+1.IBoutlet: It is used to declare an attribute & make it visible in the interface. here,a variable is declared.
+![Screenshot (63)](https://user-images.githubusercontent.com/75902849/107061694-79c33380-67a6-11eb-8801-693831345502.png)
 
 
 
