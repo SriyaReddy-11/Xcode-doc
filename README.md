@@ -60,7 +60,9 @@ Let’s go through the Editor Area in the context of editing code files first.
 Launchscreen.stroyboard:
 1.This is first screen we see when we open an application,also called as the splsh screen.when application is loading it shows this screen called as launchscreen.storyboard.this file is automatically created.Here we can add lable,image and manymore.
 
-2.main.storyboard:
+2.main.storyboard:Select MainStoryboard.storyboard is where you can find single view controller. we can add one more view controllers and update the view controllers.we link many scenes together,controllers.we can connect from one scene to many scenes.
+3.assets.Xcassets: Instead of adding individual images to Xcode’s file organizer, you add assets neatly organized in a single catalog. Asset catalogs also include metadata, for example about image scale.
+3.appdelegate.swift:its an application life cycle,like how an application moves from one stage to other stage.the app delegate object manages your app's shared behaviors. The app delegate is effectively the root object of your app, and it works in conjunction with UIApplication to manage some interactions with the system.
 
 
 
